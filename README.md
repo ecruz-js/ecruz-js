@@ -1,98 +1,93 @@
 <div align="center">
-  
-# 👋 Hey, What's Up? I'm Emmanuel Cruz Balcacer
 
-**Full Stack Developer & Digital Innovator**
+# Hi, I'm Emmanuel Cruz Balcacer 👋
 
-I'm a passionate **Full Stack Developer** from the Dominican Republic <img src="https://flagcdn.com/16x12/do.png" alt="DR" /> who loves creating amazing web experiences and solving complex problems through code. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm currently building **JAVVEE Tech**, starting as a solo venture with the ambitious vision of becoming the most important software company in the Dominican Republic. Today it's just me, but tomorrow we'll be leading the tech revolution in the Caribbean.
+**Full Stack Developer · Founder of JAVVEE Technologies** <img src="https://flagcdn.com/16x12/do.png" alt="Dominican Republic" />
+
+Software Engineer (Magna Cum Laude, 2024) building real products end-to-end — from idea and design to production. I'm growing **JAVVEE Technologies** from a one-person venture into the most important software company in the Dominican Republic, one shipped project at a time.
+
+<a href="https://www.linkedin.com/in/emmanuelcb/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+</a>
+<a href="mailto:chirsbalc27@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Email" />
+</a>
+<a href="https://www.instagram.com/javvee_developerrd/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
+</a>
+<a href="https://wa.link/ttlckm" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚧 What I'm Building Now
 
-- 🔭 I'm currently working on **innovative web applications and API development**
-- 🌱 I'm constantly learning **Next.js, GraphQL, and cloud technologies**
-- 👯 I'm looking to collaborate on **open source projects and exciting startups**
-- 💬 Ask me about **React, Node.js, TypeScript, and full-stack architecture**
-- ⚡ Fun fact: **I believe every bug is just an undiscovered feature waiting to be explored!**
+Real projects, currently in active development. The private ones will go public as they mature — watch this space.
 
----
-
-## 🔥 Languages and Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mongodb,postgresql,firebase,git" height="50" />
-  <img src="https://skillicons.dev/icons?i=python,nestjs,graphql,aws,docker,nginx" height="50" />
-  <img src="https://skillicons.dev/icons?i=angular,vue,flutter,redux,jest,figma" height="50" />
-</div>
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| **Bonao Rentals** | Property rental marketplace for Bonao, DR — owner dashboard, real-time messaging, Google Maps integration | Next.js 15 · Supabase (PostgreSQL + RLS) · TailwindCSS | 🔨 In development · 🔒 private beta |
+| **GalloTrack** | Mobile record-keeping and tracking app for breeders | React Native · Expo | 🔨 In development |
+| **JAVVEE Finanzas** | Receipt scanning and personal finance automation powered by AI vision | TypeScript · Claude Vision API | 🔨 In development |
+| **GoyBuru Realty** | Real estate web platform | Blazor · ASP.NET Core | 🧪 Final stretch |
+| **LexOffice** | Law office management web app (pro bono) | Web | 🔨 In development |
 
 ---
 
-## 🌟 Featured Projects
+## 🔭 Open Source & Public Repos
 
-### 🎯 [E-Commerce Platform](https://github.com/ecruz-js/ecommerce-platform)
-> A full-stack e-commerce solution built with modern technologies for seamless shopping experiences.
-- **Tech Stack**: Next.js, TypeScript, PostgreSQL, Tailwind CSS
-- **Features**: Payment integration, inventory management, responsive design
-- **Live Demo**: [View Project](https://your-ecommerce-demo.com)
+- [**create-stack**](https://github.com/ecruz-js/create-stack) — CLI that scaffolds projects with pre-implemented architecture patterns, so you start from working structure instead of a blank folder.
+- [**audioscribe**](https://github.com/ecruz-js/audioscribe) — Transcribes WhatsApp voice notes and generates combined summaries, powered by OpenRouter. TypeScript.
+- [**frontend-mentor-challenges**](https://github.com/ecruz-js/frontend-mentor-challenges) — Pixel-focused UI implementations from Frontend Mentor briefs.
 
-### 🎯 [Task Management API](https://github.com/ecruz-js/task-api)
-> RESTful API with GraphQL integration for efficient project and task management.
-- **Tech Stack**: Node.js, NestJS, MongoDB, GraphQL
-- **Features**: Real-time updates, authentication, role-based access
-- **Documentation**: [API Docs](https://your-api-docs.com)
+---
 
-### 🎯 [Weather Dashboard](https://github.com/ecruz-js/weather-dashboard)
-> Interactive weather application with beautiful UI and real-time data visualization.
-- **Tech Stack**: React, TypeScript, Chart.js, OpenWeather API
-- **Features**: Geolocation, forecasts, responsive charts
-- **Live Demo**: [View Project](https://your-weather-app.com)
+## 🛠️ Tech Stack
 
-###
+**Core — what I ship with daily:**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emmanuelcb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.instagram.com/javvee_developerrd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:chrisbalc27@yahoo.com?subject=GitHub%20Profile%20Inquiry%20-%20Let's%20Connect!" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.link/ttlckm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,tailwind,supabase,postgres,vercel" height="48" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, TailwindCSS, Supabase, PostgreSQL, Vercel" />
 </div>
 
-###
+**Also working with:**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ecruz-js&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ecruz-js&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,express,mongodb,mysql,docker,cloudflare,git,figma" height="42" alt="C#, .NET, Angular, Express, MongoDB, MySQL, Docker, Cloudflare, Git, Figma" />
 </div>
 
-###
+<div align="center">
+
+`Blazor / MudBlazor` · `React Native / Expo` · `shadcn/ui` · `Power BI / DAX` · `n8n`
+
+</div>
+
+**Currently learning:** English (B2 path) · AWS · BigQuery · Three.js
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ecruz-js&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecruz-js&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Top languages" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ecruz-js/ecruz-js/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ecruz-js/ecruz-js/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ecruz-js/ecruz-js/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ecruz-js/ecruz-js/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ---
 
 <div align="center">
-  
-**"The best way to predict the future is to create it."** – Peter Drucker
 
-⭐ From [ecruz-js](https://github.com/ecruz-js) with ❤️
+**"The best way to predict the future is to create it."** — Peter Drucker
+
+⭐ From [ecruz-js](https://github.com/ecruz-js), building from Bonao 🇩🇴
 
 </div>
