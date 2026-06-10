@@ -23,6 +23,18 @@ Software Engineer (Magna Cum Laude, 2024) building real products end-to-end — 
 
 ---
 
+## ✅ Shipped & In Production
+
+### 🏫 Sistema de Asistencia Escolar
+
+> Full-stack attendance management system for Dominican schools, integrated with the country's official education platforms (**SIGERD** sync + **MINERD** reporting).
+
+- **What it does**: role-based dashboards (admin, principals, teachers, staff), automated student sync with SIGERD, scheduled multi-level reminders, real-time monitoring for school leadership, audited submission of attendance to MINERD, and full reporting/statistics.
+- **Tech Stack**: Node.js · Express · PostgreSQL · Sequelize · JWT · node-cron
+- **Status**: ✅ Completed and running in a real school · 🔒 private repo
+
+---
+
 ## 🚧 What I'm Building Now
 
 Real projects, currently in active development. The private ones will go public as they mature — watch this space.
